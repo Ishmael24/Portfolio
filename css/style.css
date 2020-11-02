@@ -1,0 +1,18 @@
+.project-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.project-links li {
+    float: left;
+}
+  
+.project-links li a {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    padding: 0 16px 0 0;
+    text-decoration: none;
+}
